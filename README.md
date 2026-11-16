@@ -4,7 +4,7 @@
 
 I build web applications, backend services, and AI-enabled tools. At **GetCito**, I work on production platforms and client projects, and contribute to open-source AI-search optimization tooling.
 
-[Portfolio](https://sachiiinnn.in) · [LinkedIn](https://www.linkedin.com/in/sachin-b8b023372/) · [Email](mailto:sanshu9582@gmail.com)
+[Portfolio](https://sachiiinnn.in) · [Résumé](https://sachiiinnn.in/Sachin_Resume_Updated.pdf) · [LinkedIn](https://www.linkedin.com/in/sachin-b8b023372/) · [Email](mailto:sanshu9582@gmail.com)
 
 ## Selected work
 
